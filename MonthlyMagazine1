@@ -1,0 +1,712 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>视频行业月报</title>
+<style type="text/css">
+<!--
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background: #42413C;
+	margin: 0;
+	padding: 0;
+	color: #000;
+	background-image: url();
+	background-color: #FFF;
+	text-align: right;
+}
+
+/* ~~ 元素/标签选择器 ~~ */
+ul, ol, dl { /* 由于浏览器之间的差异，最佳做法是在列表中将填充和边距都设置为零。为了保持一致，您可以在此处指定需要的数值，也可以在列表所包含的列表项（LI、DT 和 DD）中指定需要的数值。请注意，除非编写一个更为具体的选择器，否则您在此处进行的设置将会层叠到 .nav 列表。 */
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	 /* 删除上边距可以解决边距会超出其包含的 div 的问题。剩余的下边距可以使 div 与后面的任何元素保持一定距离。 */
+	padding-right: 15px;
+	padding-left: 15px; /* 向 div 内的元素侧边（而不是 div 自身）添加填充可避免使用任何方框模型数学。此外，也可将具有侧边填充的嵌套 div 用作替代方法。 */
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+a img { /* 此选择器将删除某些浏览器中显示在图像周围的默认蓝色边框（当该图像包含在链接中时） */
+	border: none;
+}
+/* ~~ 站点链接的样式必须保持此顺序，包括用于创建悬停效果的选择器组在内。 ~~ */
+a:link {
+	color: #42413C;
+	text-decoration: underline; /* 除非将链接设置成极为独特的外观样式，否则最好提供下划线，以便可从视觉上快速识别 */
+}
+a:visited {
+	color: #6E6C64;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { /* 此组选择器将为键盘导航者提供与鼠标使用者相同的悬停体验。 */
+	text-decoration: none;
+}
+
+/* ~~ 此固定宽度容器包含所有其它元素 ~~ */
+.container {
+	width: 800px;
+	background: #FFF;
+	margin: 0 auto; /* 侧边的自动值与宽度结合使用，可以将布局居中对齐 */
+}
+
+/* ~~ 这是布局信息。 ~~ 
+
+1) 填充只会放置于 div 的顶部和/或底部。此 div 中的元素侧边会有填充。这样，您可以避免使用任何“方框模型数学”。请注意，如果向 div 自身添加任何侧边填充或边框，这些侧边填充或边框将与您定义的宽度相加，得出 *总计* 宽度。您也可以选择删除 div 中的元素的填充，并在该元素中另外放置一个没有任何宽度但具有设计所需填充的 div。
+
+*/
+.content {
+	padding: 10px 0;
+	color: #000;
+	text-align: center;
+}
+
+/* ~~ 其它浮动/清除类 ~~ */
+.fltrt {  /* 此类可用于在页面中使元素向右浮动。浮动元素必须位于其在页面上的相邻元素之前。 */
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { /* 此类可用于在页面中使元素向左浮动。浮动元素必须位于其在页面上的相邻元素之前。 */
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { /* 如果从 .container 中删除了 overflow:hidden，则可以将此类放置在 <br /> 或空 div 中，作为 #container 内最后一个浮动 div 之后的最终元素 */
+	clear:both;
+	height:0;
+	font-size: 0px;
+	line-height: 0px;
+}
+.container .content table tr td h1 {
+	font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
+	color: #FFFBF0;
+}
+.container .content table tr td h1 {
+	color: #333;
+}
+.container {
+	color: #00F;
+}
+#title {
+	color: #F00;
+}
+.title {
+	color: #333;
+	text-align: center;
+}
+.message {
+	color: #D6D6D6;
+}
+.message {
+	color: #666;
+	font-size: 14px;
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.title {
+	text-align: center;
+}
+.container {
+	text-align: left;
+}
+-->
+</style></head>
+
+<body>
+<table align="center" width="800" height="30" border="0" cellpadding="0" cellspacing="0">
+<tr><td bgcolor="#e5e5e5" align="right" style="font-size:12px">如果您无法阅读此邮件，请<a href="http://180.169.18.154:803/edm_v2.aspx?style=green&m=201602" target="_blank" style="color:#1054cd">点击这里</a>在线浏览。</td></tr></table>
+<div class="container">
+  <div class="content">
+<table width="800" border="0" cellspacing="0">
+  <tr>
+    <td width="445" rowspan="3"><img src="images/images/无标题.png" width="443" height="137" alt="title1"></td>
+    <td width="351" height="66"><img src="images/images/head.png" alt="head" width="351" height="55" align="right"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td><img src="images/images/日期.png" alt="日期" width="213" height="35" align="left"></td>
+  </tr>
+</table>
+<p>&nbsp;&nbsp;&nbsp;部门：主站产品开发 &nbsp;&nbsp;用户研究 </p>
+<p align="left">&nbsp;&nbsp;&nbsp;本月作者：董梦丹</p>
+    <p align="left">&nbsp;&nbsp;&nbsp;本月负责人：施慧敏    </p>
+<table align="center" width="800" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+  	<td height="30" colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+  	<td width="35">&nbsp;</td>
+    <td>
+      <table align="center" width="730" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td colspan="3" height="30"><img src="http://180.169.18.154:803/img2/g1.png" /></td>
+      </tr>
+      <tr>
+        <td height="20" colspan="3">&nbsp;</td>
+      </tr>
+      <tr>
+        <td width="297" rowspan="2"><img src="http://180.169.18.154:803/upload/45648094.jpg" width="296" height="142" alt=""/></td>
+        <td width="33" rowspan="2">&nbsp;</td>
+        <td width="400" height="34" style="color:#666666;">
+        	<strong>大剧火爆双屏  自制剧收视抢眼</strong><br>
+        </td>
+      </tr>
+      <tr>
+        <td>
+            <font style="font-size:12px; color:#666666; line-height:20px; text-align: left;">2015年，《武媚娘传奇》《伪装者》《芈月传》等大剧闪耀荧屏，在电视和网络端均获得巨大的关注。
+   2015年迎来网络自制爆发之年，各家主流媒体广泛挖掘大IP，纷纷推出自制剧，其中不乏内容、制作有口皆碑的精良之作，播放量也不输传统大剧。  <a href="http://180.169.18.154:803/down.aspx?f=SPQJC201604.pdf&m=201602">[下载完整版报告]</a>	</font>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" height="10"></td>
+      </tr>
+      
+      <tr>
+        <td colspan="3" height="30"><img src="http://180.169.18.154:803/img2/g2.png" /></td>
+      </tr>
+      <tr>
+        <td colspan="3" height="30">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3">
+        	<table align="center" width="730" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="300">
+                	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td colspan="4">
+                        	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="20">&nbsp;</td>
+                                <td width="260" background="http://180.169.18.154:803/img2/5.png" align="center" height="30" style="font-size:14px; font-weight:bold;color:#666666">2016年2月电视电视剧收视排行榜</td>
+                                <td width="20">&nbsp;</td>
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="20">&nbsp;</td>
+                      </tr>
+                      <tr bgcolor="#80c14d" style="font-size:12px; color:#fff;" height="28" align="center">
+                        <td width="55">电视排名</td>
+                        <td width="56">片名</td>
+                        <td width="136">覆盖人数(万)</td>
+                        <td width="54">网络排名</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="113"><div style="height:113px"><img src="http://180.169.18.154:803/upload/31205160.jpg" width="300" height="113"/></div></td>
+                      </tr>
+                        
+<tr bgcolor="#777777" style="font-size:12px; color:#ffffff;" height="28" align="center">
+                        <td bgcolor="#777777"><font color="red">1</font></td>
+                        <td bgcolor="#777777">天天有喜2</td>
+                        <td bgcolor="#777777">39089 </td>
+                        <td bgcolor="#777777">5</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">2</font></td>
+                        <td bgcolor="#f5f5f5">寂寞空庭春欲晚</td>
+                        <td bgcolor="#f5f5f5">28386 </td>
+                        <td bgcolor="#f5f5f5">1</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">3</font></td>
+                        <td bgcolor="#f5f5f5">女医明妃传</td>
+                        <td bgcolor="#f5f5f5">27511 </td>
+                        <td bgcolor="#f5f5f5">2</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">4</font></td>
+                        <td bgcolor="#f5f5f5">班淑传奇</td>
+                        <td bgcolor="#f5f5f5">26332 </td>
+                        <td bgcolor="#f5f5f5">31</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">5</font></td>
+                        <td bgcolor="#f5f5f5">刘海戏金蟾</td>
+                        <td bgcolor="#f5f5f5">24334 </td>
+                        <td bgcolor="#f5f5f5">38</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">6</font></td>
+                        <td bgcolor="#f5f5f5">新萧十一郎</td>
+                        <td bgcolor="#f5f5f5">23949 </td>
+                        <td bgcolor="#f5f5f5">7</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">7</font></td>
+                        <td bgcolor="#f5f5f5">解忧公主</td>
+                        <td bgcolor="#f5f5f5">23303 </td>
+                        <td bgcolor="#f5f5f5">51</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">8</font></td>
+                        <td bgcolor="#f5f5f5">大年初一立春</td>
+                        <td bgcolor="#f5f5f5">21302 </td>
+                        <td bgcolor="#f5f5f5">14</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">9</font></td>
+                        <td bgcolor="#f5f5f5">还是夫妻</td>
+                        <td bgcolor="#f5f5f5">21221 </td>
+                        <td bgcolor="#f5f5f5">21</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">10</font></td>
+                        <td bgcolor="#f5f5f5">蜀山战纪之剑侠传奇</td>
+                        <td bgcolor="#f5f5f5">21024 </td>
+                        <td bgcolor="#f5f5f5">9</td>
+                      </tr>
+                    </table>
+                </td>
+                <td width="130">&nbsp;</td>
+                <td width="300">
+                	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td colspan="4">
+                        	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="20">&nbsp;</td>
+                                <td width="260" background="http://180.169.18.154:803/img2/5.png" align="center" height="30" style="font-size:14px; font-weight:bold;color:#666666">2016年2月网络电视剧收视排行榜</td>
+                                <td width="20">&nbsp;</td>
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="20">&nbsp;</td>
+                      </tr>
+                      <tr bgcolor="#80c14d" style="font-size:12px; color:#fff;" height="28" align="center">
+                        <td>网络排名</td>
+                        <td>片名</td>
+                        <td>覆盖人数(万)</td>
+                        <td>电视排名</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="113"><div style="height:113px"><img src="http://180.169.18.154:803/upload/11785732.jpg" width="300" height="113"/></div></td>
+                      </tr>
+                        
+<tr bgcolor="#777777" style="font-size:12px; color:#ffffff;" height="28" align="center">
+                        <td bgcolor="#777777"><font color="red">1</font></td>
+                        <td bgcolor="#777777">寂寞空庭春欲晚</td>
+                        <td bgcolor="#777777">6230 </td>
+                        <td bgcolor="#777777">2</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">2</font></td>
+                        <td bgcolor="#f5f5f5">女医·明妃传</td>
+                        <td bgcolor="#f5f5f5">5236 </td>
+                        <td bgcolor="#f5f5f5">3</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">3</font></td>
+                        <td bgcolor="#f5f5f5">青丘狐传说</td>
+                        <td bgcolor="#f5f5f5">4293 </td>
+                        <td bgcolor="#f5f5f5">21</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">4</font></td>
+                        <td bgcolor="#f5f5f5">特种兵之霹雳火</td>
+                        <td bgcolor="#f5f5f5">3527 </td>
+                        <td bgcolor="#f5f5f5">29</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">5</font></td>
+                        <td bgcolor="#f5f5f5">天天有喜2</td>
+                        <td bgcolor="#f5f5f5">3224 </td>
+                        <td bgcolor="#f5f5f5">1</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">6</font></td>
+                        <td bgcolor="#f5f5f5">少帅</td>
+                        <td bgcolor="#f5f5f5">3197 </td>
+                        <td bgcolor="#f5f5f5">32</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">7</font></td>
+                        <td bgcolor="#f5f5f5">新萧十一郎</td>
+                        <td bgcolor="#f5f5f5">2853 </td>
+                        <td bgcolor="#f5f5f5">6</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">8</font></td>
+                        <td bgcolor="#f5f5f5">煮妇神探</td>
+                        <td bgcolor="#f5f5f5">2515 </td>
+                        <td bgcolor="#f5f5f5">63</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">9</font></td>
+                        <td bgcolor="#f5f5f5">蜀山战纪之剑侠传奇</td>
+                        <td bgcolor="#f5f5f5">2436 </td>
+                        <td bgcolor="#f5f5f5">10</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">10</font></td>
+                        <td bgcolor="#f5f5f5">生死翻盘</td>
+                        <td bgcolor="#f5f5f5">1800 </td>
+                        <td bgcolor="#f5f5f5">36</td>
+                      </tr>
+                    </table>
+                </td>
+              </tr>
+            </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" height="30">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3">
+        	<table align="center" width="730" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="300">
+                	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td colspan="4">
+                        	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="20">&nbsp;</td>
+                                <td width="260" background="http://180.169.18.154:803/img2/5.png" align="center" height="30" style="font-size:14px; font-weight:bold;color:#666666">2016年2月电视综艺收视排行榜</td>
+                                <td width="20">&nbsp;</td>
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="20">&nbsp;</td>
+                      </tr>
+                      <tr bgcolor="#80c14d" style="font-size:12px; color:#fff;" height="28" align="center">
+                        <td>电视排名</td>
+                        <td>片名</td>
+                        <td>覆盖人数(万)</td>
+                        <td>网络排名</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="113"><div style="height:113px"><img src="http://180.169.18.154:803/upload/34632272.jpg" width="300" height="113"/></div></td>
+                      </tr>
+                        
+<tr bgcolor="#777777" style="font-size:12px; color:#ffffff;" height="28" align="center">
+                        <td bgcolor="#777777"><font color="red">1</font></td>
+                        <td bgcolor="#777777">2016央视春晚</td>
+                        <td bgcolor="#777777">74153 </td>
+                        <td bgcolor="#777777">5</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">2</font></td>
+                        <td bgcolor="#f5f5f5">星光大道2015年度总决赛</td>
+                        <td bgcolor="#f5f5f5">25135 </td>
+                        <td bgcolor="#f5f5f5">-</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">3</font></td>
+                        <td bgcolor="#f5f5f5">光影星播客</td>
+                        <td bgcolor="#f5f5f5">25114 </td>
+                        <td bgcolor="#f5f5f5">-</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">4</font></td>
+                        <td bgcolor="#f5f5f5">快乐大本营</td>
+                        <td bgcolor="#f5f5f5">22155 </td>
+                        <td bgcolor="#f5f5f5">2</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">5</font></td>
+                        <td bgcolor="#f5f5f5">开门大吉</td>
+                        <td bgcolor="#f5f5f5">21687 </td>
+                        <td bgcolor="#f5f5f5">-</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">6</font></td>
+                        <td bgcolor="#f5f5f5">2016央视元宵晚会</td>
+                        <td bgcolor="#f5f5f5">21606 </td>
+                        <td bgcolor="#f5f5f5">32</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">7</font></td>
+                        <td bgcolor="#f5f5f5">星光大道</td>
+                        <td bgcolor="#f5f5f5">19755 </td>
+                        <td bgcolor="#f5f5f5">-</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">8</font></td>
+                        <td bgcolor="#f5f5f5">王牌对王牌</td>
+                        <td bgcolor="#f5f5f5">19688 </td>
+                        <td bgcolor="#f5f5f5">4</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">9</font></td>
+                        <td bgcolor="#f5f5f5">天天向上</td>
+                        <td bgcolor="#f5f5f5">19187 </td>
+                        <td bgcolor="#f5f5f5">8</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">10</font></td>
+                        <td bgcolor="#f5f5f5">电影快讯</td>
+                        <td bgcolor="#f5f5f5">17090 </td>
+                        <td bgcolor="#f5f5f5">-</td>
+                      </tr>
+                    </table>
+                </td>
+                <td width="130">&nbsp;</td>
+                <td width="300">
+                	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td colspan="4">
+                        	<table align="center" width="300" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="20">&nbsp;</td>
+                                <td width="260" background="http://180.169.18.154:803/img2/5.png" align="center" height="30" style="font-size:14px; font-weight:bold;color:#666666">2016年2月网络综艺收视排行榜</td>
+                                <td width="20">&nbsp;</td>
+                              </tr>
+                            </table>
+                        </td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="20">&nbsp;</td>
+                      </tr>
+                      <tr bgcolor="#80c14d" style="font-size:12px; color:#fff;" height="28" align="center">
+                        <td>网络排名</td>
+                        <td>片名</td>
+                        <td>覆盖人数(万)</td>
+                        <td>电视排名</td>
+                      </tr>
+                      <tr>
+                        <td colspan="4" height="113"><div style="height:113px"><img src="http://180.169.18.154:803/upload/68771559.jpg" width="300" height="113"/></div></td>
+                      </tr>
+                        
+<tr bgcolor="#777777" style="font-size:12px; color:#ffffff;" height="28" align="center">
+                        <td bgcolor="#777777"><font color="red">1</font></td>
+                        <td bgcolor="#777777">欢乐喜剧人</td>
+                        <td bgcolor="#777777">4484 </td>
+                        <td bgcolor="#777777">24</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">2</font></td>
+                        <td bgcolor="#f5f5f5">快乐大本营</td>
+                        <td bgcolor="#f5f5f5">3958 </td>
+                        <td bgcolor="#f5f5f5">4</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">3</font></td>
+                        <td bgcolor="#f5f5f5">我是歌手</td>
+                        <td bgcolor="#f5f5f5">3731 </td>
+                        <td bgcolor="#f5f5f5">26</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">4</font></td>
+                        <td bgcolor="#f5f5f5">王牌对王牌</td>
+                        <td bgcolor="#f5f5f5">2884 </td>
+                        <td bgcolor="#f5f5f5">8</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">5</font></td>
+                        <td bgcolor="#f5f5f5">2016央视春晚</td>
+                        <td bgcolor="#f5f5f5">2455 </td>
+                        <td bgcolor="#f5f5f5">1</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">6</font></td>
+                        <td bgcolor="#f5f5f5">2016辽宁卫视春晚</td>
+                        <td bgcolor="#f5f5f5">2336 </td>
+                        <td bgcolor="#f5f5f5">48</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">7</font></td>
+                        <td bgcolor="#f5f5f5">最强大脑</td>
+                        <td bgcolor="#f5f5f5">1969 </td>
+                        <td bgcolor="#f5f5f5">22</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">8</font></td>
+                        <td bgcolor="#f5f5f5">天天向上</td>
+                        <td bgcolor="#f5f5f5">1883 </td>
+                        <td bgcolor="#f5f5f5">9</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">9</font></td>
+                        <td bgcolor="#f5f5f5">奔跑吧兄弟</td>
+                        <td bgcolor="#f5f5f5">1680 </td>
+                        <td bgcolor="#f5f5f5">46</td>
+                      </tr>
+                        
+<tr bgcolor="#f5f5f5" style="font-size:12px; color:#666666;" height="28" align="center">
+                        <td bgcolor="#f5f5f5"><font color="red">10</font></td>
+                        <td bgcolor="#f5f5f5">金星脱口秀</td>
+                        <td bgcolor="#f5f5f5">1494 </td>
+                        <td bgcolor="#f5f5f5">99</td>
+                      </tr>
+                    </table>
+                </td>
+              </tr>
+            </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" height="20">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" height="30"><img src="http://180.169.18.154:803/img2/g3.png" /></td>
+      </tr>
+      <tr>
+        <td colspan="3">
+        	<table align="center" width="730" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td colspan="3" height="20">&nbsp;</td>
+              </tr>
+              <tr>
+                <td width="300"><img src="http://180.169.18.154:803/upload/74081187.jpg" width="300" alt=""/></td>
+                <td width="30" rowspan="3">&nbsp;</td>
+                <td width="400" rowspan="3">
+                	<table align="center" width="400" border="0" cellspacing="0" cellpadding="0" style="font-size:14px">
+                      <tr>
+                        <td height="24">· <a href="http://t.qianzhan.com/kuaixun/detail/160329-86bca8f3.html" target="_blank">爱奇艺台湾站正式上线开启海外扩张步伐</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://tech.qq.com/a/20160328/035075.htm" target="_blank">B站携与腾讯合作的动漫项目登陆日本</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://xiaofei.china.com.cn/news/info-11-9-184226.html" target="_blank">芒果TV斩获中国广告大奖 内容营销品效合一引领行业</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://ent.qq.com/a/20160317/042261.htm" target="_blank">《如懿传》的独家网络版权花落腾讯视频</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://ent.rednet.cn/c/2016/03/27/3944334.htm" target="_blank">优酷土豆布局原创音乐产业 助阵中国嘻哈颁奖礼</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://science.china.com.cn/2016-03/25/content_8662891.htm" target="_blank">爱奇艺与英国电影协会合作在线影展 畅享全球艺术佳片</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://news.163.com/16/0411/00/BKB3FJEO00014AED.html" target="_blank">搜狐启动里约奥运战略</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://finance.sina.com.cn/stock/usstock/c/2016-04-05/us-ifxqxcnp8598446.shtml" target="_blank">乐视网将在俄市场推出视频平台和智能手机</a></td>
+                      </tr>
+                      <tr>
+                        <td height="24">· <a href="http://mt.sohu.com/20160322/n441502541.shtml" target="_blank">优酷土豆合并贯穿阿里系移动端和PC段数据</a></td>
+                      </tr>
+                    </table>
+                </td>
+              </tr>
+              <tr>
+                <td style="font-size:14px" height="25" valign="top"><a href="http://money.163.com/16/0406/15/BJVQGK9T00254TI5.html" target="_blank"><strong></strong>合一集团与阿里巴巴完成合并交易</strong></a></td>
+              </tr>
+               <tr>
+                <td style="font-size:12px; color:#666666; line-height:18px; text-align: left;">4月6日，中国视频巨头合一集团宣布，依据2015年11月6日宣布的合并计划，合一集团与阿里巴巴集团已完成合并交易。合一集团正式完成私有化，将与阿里的大数据、电子商务、数字娱乐、OTT等业务全面无缝打通。古永锵仍继续担任合一集团主席及首席执行官。</td>
+              </tr>
+            </table>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="3" height="20">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3" height="30"><img src="http://180.169.18.154:803/img2/g4.png" /></td>
+      </tr>
+      <tr>
+        <td colspan="3" height="20">&nbsp;</td>
+      </tr>
+      <tr>
+        <td colspan="3">
+        	<table align="center" width="730" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="195"><img src="http://180.169.18.154:803/upload/87826166.jpg" width="195" height="115" alt=""/></td>
+                <td width="72" rowspan="5">&nbsp;</td>
+                <td width="195"><img src="http://180.169.18.154:803/upload/90186872.jpg" width="195" height="115" alt=""/></td>
+                <td width="73" rowspan="5">&nbsp;</td>
+                <td width="195"><img src="http://180.169.18.154:803/upload/46135310.jpg" width="195" height="115" alt=""/></td>
+              </tr>
+              <tr>
+                <td width="195" height="10" colspan="5"></td>
+              </tr>
+              <tr style="font-size:14px;">
+                <td width="195" style="color:#666666; font-weight:bold;">乐视–《你看起来很好吃》第二季 综艺</td>
+                <td width="195" style="color:#666666; font-weight:bold;">优土–2016年韩剧 电视剧</td>
+                <td width="195" style="color:#666666; font-weight:bold;">爱奇艺-《我去上学啦》第二季 综艺</td>
+              </tr>
+              <tr>
+                <td width="195" height="10" colspan="5"></td>
+              </tr>
+              <tr style="font-size:12px; line-height:18px">
+                <td width="195" style="color:#666666; text-align: left;">《你看起来很好吃》是乐视自制的明星美食实景生活秀节目，第一季上线10期节目总播放量3.2亿，超全季预估流量220%！第二季暂定2016年6月，共12期每周六播出。招商方案敬请 [<a href="http://180.169.18.154:803/down.aspx?f=letv.pdf&m=201602" target="_blank">下载</a>]</td>
+                <td width="195" style="color:#666666; text-align: left;">韩国SBS电视台独家合作视频媒体优酷土豆，挖掘韩国文化新蓝海。极具话题剧情搭配完美人气偶像，中韩两地同步播出多部超级韩剧。7月中韩同步独播《任意依恋》，9月《步步惊心：丽》，Q2《回来吧大叔》等。招商方案敬请 [<a href="http://180.169.18.154:803/down.aspx?f=yt.pdf&m=201602" target="_blank">下载</a>]</td>
+                <td width="195" style="color:#666666; text-align: left;">《我去上学啦第二季》是浙江卫视引进韩国同名综艺推出的明星校园真人秀节目。节目共12期，第二季四位固定主持有鹿晗、大张伟、陈嘉桦、张丹峰。2016年第3季度周日21点档，浙江卫视&爱奇艺双平台播出。招商方案敬请 [<a href="http://180.169.18.154:803/down.aspx?f=iqiyi.pdf&m=201602" target="_blank">下载</a>]</td>
+              </tr>
+            </table>
+            
+            <br />
+            <table align="center" width="730" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td width="195"><img src="http://180.169.18.154:803/upload/47946012.jpg" width="195" height="115" alt=""/></td>
+                <td width="72" rowspan="5">&nbsp;</td>
+                <td width="195"><img src="http://180.169.18.154:803/upload/62835510.jpg" width="195" height="115" alt=""/></td>
+                <td width="73" rowspan="5">&nbsp;</td>
+                <td width="195"></td>
+              </tr>
+              <tr>
+                <td width="195" height="10" colspan="5"></td>
+              </tr>
+              <tr style="font-size:14px;">
+                <td width="195" style="color:#666666; font-weight:bold;">搜狐视频-2016奥运季 体育赛事</td>
+                <td width="195" style="color:#666666; font-weight:bold;">腾讯视频–《拜托了冰箱》第二季 综艺</td>
+                <td width="195" style="color:#666666; font-weight:bold;"></td>
+              </tr>
+              <tr>
+                <td width="195" height="10" colspan="5"></td>
+              </tr>
+              <tr style="font-size:12px; line-height:18px">
+                <td width="195" style="color:#666666; text-align: left;">搜狐视频"极速里约"以多角度的营销方式，整合全方位的内容资源，打造全民所需的最娱乐、最互动的奥运季。将是一场全方位线上+线下体验的奥运娱乐盛会！将是一场搜狐视频与网民、与客户的奥运互动狂欢！招商方案敬请 [<a href="http://180.169.18.154:803/down.aspx?f=sohu.pdf&m=201602" target="_blank">下载</a>]</td>
+                <td width="195" style="color:#666666; text-align: left;">腾讯视频独享韩国顶级IP《拜托了冰箱》第二季，明星私密料理脱口秀。《冰箱》第一季战绩惊人，播放总VV超过4亿，#拜托了冰箱#微博阅读量超5.9亿。《冰箱》第二季，何炅搭档王嘉尔"何尔萌"组合携冰箱家族又回来啦！招商方案敬请 [<a href="http://180.169.18.154:803/down.aspx?f=tengxun.pdf&m=201602" target="_blank">下载</a>]</td>
+                <td width="195" style="color:#666666;"></td>
+              </tr>
+            </table>
+        </td>
+      </tr>
+    </table>
+    </td>
+    <td width="35">&nbsp;</td>
+  </tr>
+</table>
+    
+<img src="http://c.cnzz.com/wapstat.php?siteid=1256990040&r=&rnd=297014981" width="0" height="0"/>
+
+</body>
+</html>
